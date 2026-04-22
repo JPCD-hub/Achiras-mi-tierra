@@ -579,6 +579,35 @@ ul {
   font-weight: 700;
 }
 
+.achira-chips {
+  gap: 0.62rem;
+}
+
+.achira-chips span {
+  min-width: 112px;
+  border-radius: 14px;
+  padding: 0.55rem 0.72rem 0.5rem;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1.1;
+  box-shadow: 0 6px 14px rgba(155, 86, 32, 0.14);
+}
+
+.achira-chips strong {
+  font-size: 1.02rem;
+  color: #7f3f1a;
+}
+
+.achira-chips small {
+  margin-top: 0.24rem;
+  color: #6c5b4f;
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
 .table-like {
   margin-top: 0.5rem;
 }
