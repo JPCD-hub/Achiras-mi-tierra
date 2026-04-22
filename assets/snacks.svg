@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8f1f1d"/>
+      <stop offset="100%" stop-color="#c6302c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <ellipse cx="400" cy="330" rx="250" ry="120" fill="#3f2413" opacity="0.45"/>
+  <ellipse cx="400" cy="300" rx="235" ry="105" fill="#f8f1e7"/>
+  <g fill="#d9b36a">
+    <ellipse cx="320" cy="270" rx="35" ry="26"/>
+    <ellipse cx="370" cy="250" rx="30" ry="23"/>
+    <ellipse cx="430" cy="255" rx="34" ry="24"/>
+    <ellipse cx="480" cy="275" rx="33" ry="24"/>
+    <ellipse cx="345" cy="310" rx="28" ry="22"/>
+    <ellipse cx="405" cy="300" rx="35" ry="25"/>
+    <ellipse cx="455" cy="315" rx="29" ry="22"/>
+  </g>
+  <text x="44" y="74" fill="#f8f1e7" font-size="44" font-family="Verdana, sans-serif" font-weight="700">Snacks y Mezclas</text>
+</svg>

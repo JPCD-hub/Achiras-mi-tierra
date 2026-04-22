@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">Achiras de mi Tierra</title>
+  <desc id="desc">Emblema temporal para la marca.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="62%">
+      <stop offset="0%" stop-color="#d6423e"/>
+      <stop offset="100%" stop-color="#8f1f1d"/>
+    </radialGradient>
+  </defs>
+  <circle cx="150" cy="150" r="146" fill="#f8f1e7"/>
+  <circle cx="150" cy="150" r="132" fill="url(#bg)"/>
+  <circle cx="150" cy="150" r="100" fill="none" stroke="#f8f1e7" stroke-width="8"/>
+  <text x="150" y="112" text-anchor="middle" font-family="Georgia, serif" font-size="25" fill="#f8f1e7" font-weight="700">ACHIRAS</text>
+  <text x="150" y="142" text-anchor="middle" font-family="Georgia, serif" font-size="25" fill="#f8f1e7" font-weight="700">DE MI</text>
+  <text x="150" y="172" text-anchor="middle" font-family="Georgia, serif" font-size="25" fill="#f8f1e7" font-weight="700">TIERRA</text>
+  <text x="150" y="212" text-anchor="middle" font-family="Verdana, sans-serif" font-size="14" fill="#f1d7a2" letter-spacing="1">ARTESANAL • LIBRE DE GLUTEN</text>
+</svg>
